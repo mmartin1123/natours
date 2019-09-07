@@ -1,0 +1,18 @@
+*,
+*::after,
+*::after {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: inherit;
+          box-sizing: inherit;
+}
+
+html {
+    // This defines what 1rem is
+  font-size: 62.5%;
+}
+
+body {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
